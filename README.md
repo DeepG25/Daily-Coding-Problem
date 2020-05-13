@@ -1,4 +1,4 @@
-# Dialy-Coding-Problem
+# Daily-Coding-Problem
 
 Problem 1 :
 
